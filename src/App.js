@@ -24,7 +24,13 @@ function App() {
         <CssBaseline />
         <div className="app">
           <Sidebar />
-          <main className="content">
+          <main
+            className="content"
+            style={{
+              height: "100%",
+              overflowY: "scroll",
+            }}
+          >
             <Topbar />
             <Routes>
               <Route path="/" element={<Dashboard />} />

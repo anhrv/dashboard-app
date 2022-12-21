@@ -11,7 +11,7 @@ const Geography = () => {
       <Header title="Geography" subtitle="Simple Geography Chart" />
 
       <Box
-        height="65vh"
+        height="75vh"
         border={`1px solid ${colors.grey[100]}`}
         borderRadius="4px"
       >

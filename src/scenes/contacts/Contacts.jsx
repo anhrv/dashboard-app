@@ -44,7 +44,7 @@ const Contacts = () => {
       <Header title="CONTACTS" subtitle="List of contacts" />
       <Box
         m="40px 0 0 0"
-        height="65vh"
+        height="75vh"
         sx={{
           "& .MuiDataGrid-root": {
             border: "none",

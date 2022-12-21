@@ -61,7 +61,6 @@ const Form = () => {
             >
               <TextField
                 fullWidth
-                size="small"
                 variant="filled"
                 type="text"
                 label="First Name"
@@ -75,7 +74,6 @@ const Form = () => {
               />
               <TextField
                 fullWidth
-                size="small"
                 variant="filled"
                 type="text"
                 label="Last Name"
@@ -89,7 +87,6 @@ const Form = () => {
               />
               <TextField
                 fullWidth
-                size="small"
                 variant="filled"
                 type="text"
                 label="Email"
@@ -103,7 +100,6 @@ const Form = () => {
               />
               <TextField
                 fullWidth
-                size="small"
                 variant="filled"
                 type="text"
                 label="Contact Number"
@@ -117,7 +113,6 @@ const Form = () => {
               />
               <TextField
                 fullWidth
-                size="small"
                 variant="filled"
                 type="text"
                 label="Address 1"
@@ -131,7 +126,6 @@ const Form = () => {
               />
               <TextField
                 fullWidth
-                size="small"
                 variant="filled"
                 type="text"
                 label="Address 2"
